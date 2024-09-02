@@ -15,16 +15,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 - - -
 
 **Does Religiosity "Fast" ens the Seatbelts of the Crime Buggy?** (with Ashokankur Datta). 2024. <br/>
-<small>[ <a href="#/" onclick="visib('testingmechs')">Abstract</a> | [Draft][testingmechs-main] ] </small>
 
-<div id="testingmechs" style="display: none; text-align: justify; line-height: 1.2" ><small>
-
- Economists are often interested in the mechanisms by which a particular treatment affects an outcome. This paper develops tests for the "sharp null of full mediation" that the treatment <em>D</em> operates on the outcome <em>Y</em> only through a particular conjectured mechanism (or set of mechanisms) <em>M</em>. A key observation is that if <em>D</em> is randomly assigned and has a monotone effect on <em>M</em>, then <em>D</em> is a valid instrumental variable for the local average treatment effect (LATE) of <em>M</em> on <em>Y</em>. Existing tools for testing the validity of the LATE assumptions can thus be used to test the sharp null of full mediation when <em>M</em> and <em>D</em> are binary. We develop a more general framework that allows one to test whether the effect of <em>D</em> on <em>Y</em> is fully explained by a potentially multi-valued and multi-dimensional set of mechanisms <em>M</em>, allowing for relaxations of the monotonicity assumption. We further provide methods for lower-bounding the size of the alternative mechanisms when the sharp null is rejected. An advantage of our approach relative to existing tools for mediation analysis is that it does not require stringent assumptions about how <em>M</em> is assigned; on the other hand, our approach helps to answer different questions than traditional mediation analysis by focusing on the sharp null rather than estimating average direct and indirect effects. We illustrate the usefulness of the testable implications in two empirical applications.
-
-
-
-</small><br><br/></div>
-[testingmechs-main]:{{ site.baseurl }}{% link assets/files/TestingMechanisms_Draft.pdf %}
 
 
 **Interpreting Event-Studies from Recent Difference-in-Differences Methods**. 2024. <br/>
